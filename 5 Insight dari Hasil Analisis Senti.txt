@@ -1,0 +1,36 @@
+5 Insight dari Hasil Analisis Sentimen PLN Mobile
+
+1. Mayoritas besar komentar bersentimen netral
+
+Dari total 500 data, terdapat 473 komentar netral dan hanya 27 komentar positif.
+Ini menunjukkan bahwa pengguna cenderung memberi komentar yang bersifat informatif atau deskriptif, bukan mengungkapkan emosi kuat.
+
+
+2. Komentar positif umumnya terkait kemudahan penggunaan
+
+Komentar positif banyak mengandung kata seperti "sangat membantu", "memudahkan", "simpel", "bagus".
+Artinya, fitur-fitur PLN Mobile yang memudahkan transaksi (beli token, cek tagihan) diapresiasi oleh pengguna.
+
+
+3. Banyak komentar netral sebenarnya bernada positif
+
+Walaupun diberi label “Netral”, isi komentarnya seperti:
+
+“sangat membantu simpel beli token lewat aplikasi”
+
+“aplikasinya sangat membantu”
+
+
+Ini menunjukkan ada potensi kesalahan klasifikasi sentimen karena model mungkin terlalu sensitif dan menganggap kalimat positif sebagai netral.
+
+
+4. Tidak ditemukan sentimen negatif dalam sampel terlihat
+
+Pada screenshot, tidak ada komentar negatif yang muncul.
+Ini menunjukkan bahwa set data kamu (atau bagian yang diproses) cenderung berisi keluhan sangat sedikit atau tidak ada, atau mungkin komentar negatif terfilter.
+
+
+
+5. Waktu komentar menunjukkan intensitas penggunaan di malam hari
+
+Waktu yang terlihat pada tabel seperti 03.28 – 03.29 pagi, menunjukkan bahwa aplikasi PLN Mobile aktif digunakan bahkan saat dini hari, menandakan:
